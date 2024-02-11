@@ -1,1 +1,0 @@
-import{d as r,c as t,e,V as o,o as s,_ as n}from"./index-5zHtm_tk.js";const p=r({__name:"BPAButton",props:{variant:{default:"primary"}},setup(c){return(a,i)=>(s(),t("button",{class:o(["button",{primary:a.variant==="primary",secondary:a.variant==="secondary"}])},[e(a.$slots,"default",{},void 0,!0)],2))}}),l=n(p,[["__scopeId","data-v-b539a317"]]);export{l as B};
