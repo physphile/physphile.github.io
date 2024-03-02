@@ -1,0 +1,1 @@
+import{_ as c,o as e,c as t}from"./index-BXpFenyw.js";const o={},s={type:"checkbox",class:"switch"};function _(n,r){return e(),t("input",s)}const i=c(o,[["render",_],["__scopeId","data-v-c73ebf86"]]);export{i as B};
